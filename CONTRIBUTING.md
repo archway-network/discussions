@@ -44,7 +44,7 @@ This is also a great opportunity to **reference** current and ongoing research r
 
 ### Examples
 
-The following discussion and issue exemplifies solicitation of open discussion respectively:
+The following discussion and issue exemplify solicitation of open discussion respectively:
 
 * Discussion: [Data Privacy in CosmWasm Smart Contracts](https://github.com/orgs/archway-network/discussions/11)
 * Issue [Enhancing Querying and Withdrawals of Rewards](https://github.com/archway-network/archway/issues/434)
