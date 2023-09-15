@@ -1,11 +1,11 @@
-# Contributing
+# Archway Discussions - Contributing
 
 ![Contributing Banner](https://github.com/archway-network/discussions/blob/main/media/stefano-zocca-c8XFzHLCB0c-unsplash-cropped.jpg?raw=true)
 Photo by <a href="https://unsplash.com/@stefano_zocca?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stefano Zocca</a> on <a href="https://unsplash.com/photos/c8XFzHLCB0c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Archway Discussions welcomes all contributors.
 
-This document serves as a guide for contributing to Archway Discussions. It provides an overview of the processes and policies established for quality collaboration and coordination. Please familiarize yourself with these guidelines and feel free to propose changes to this document for improvement.
+This document serves as a guide for contributing to Archway Discussions. It provides an overview of the processes and policies established for quality collaboration and coordination. Please familiarize yourself with these guidelines and feel free to propose changes to [this document](https://github.com/archway-network/discussions/blob/main/CONTRIBUTING.md) for improvement.
 
 ## License
 
@@ -13,7 +13,7 @@ This document serves as a guide for contributing to Archway Discussions. It prov
 
 ## General Guidelines
 
-Please follow the following guidelines when creating a new topic or discussion.
+Please follow these guidelines when creating a new topic or discussion.
 
 ### Structure
 
