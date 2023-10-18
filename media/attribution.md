@@ -19,3 +19,7 @@ Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medi
 ## 2023-09-21: [DAPP Treasury Usage](https://github.com/orgs/archway-network/discussions/22)
 
 Photo by <a href="https://unsplash.com/@sodacheese?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jouwen Wang</a> on <a href="https://unsplash.com/photos/UChknR2z5EM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+## 2023-10-18: Archway Precision
+
+Photo by <a href="https://unsplash.com/@luk10?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lukas Tennie</a> on <a href="https://unsplash.com/photos/DAWnMmUSMdU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
