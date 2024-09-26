@@ -23,3 +23,7 @@ Photo by <a href="https://unsplash.com/@sodacheese?utm_source=unsplash&utm_mediu
 ## 2023-10-18: Archway Precision
 
 Photo by <a href="https://unsplash.com/@luk10?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lukas Tennie</a> on <a href="https://unsplash.com/photos/DAWnMmUSMdU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+## 2024-09-26: Archway 50/50
+
+Photo by <a href="https://unsplash.com/@timmossholder?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tim Mossholder</a> on <a href="https://unsplash.com/photos/blue-concrete-wall-with-white-paint-xY56WiUYFjk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
